@@ -14,3 +14,7 @@ Initially we performed the parking spot prediction/classifcation on every single
 2) Look only that those parking spots where something is going on instead of checking all parking spots
 plot the histogram of frames and check for outliers. Here, outliers are those frames where the difference bettween previous frame and current frame is huge.
 Once we have the outliers, we can check only those parking slots and update the status of the parking slot
+
+### **Output**
+
+![alt text](./output.PNG)
