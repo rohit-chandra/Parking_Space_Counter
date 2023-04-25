@@ -15,6 +15,10 @@ Initially we performed the parking spot prediction/classifcation on every single
 plot the histogram of frames and check for outliers. Here, outliers are those frames where the difference bettween previous frame and current frame is huge.
 Once we have the outliers, we can check only those parking slots and update the status of the parking slot
 
+### **Data**
+Download the data [link](https://drive.google.com/drive/folders/1Q-idkb-SYzve60a5feqGe7Gk1dCO9spL)
+
 ### **Output**
 
 ![alt text](./output.PNG)
+
